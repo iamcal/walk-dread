@@ -2,15 +2,18 @@
 
 ## Characters
 
-| Player | Name | Race | Class |
-| ------ | ---- | ---- | ----- |
+| Player | Name | Race | Class | Fate |
+| ------ | ---- | ---- | ----- |------|
 | Merci | Daar Kalanik | Dragonborn | Barbarian Berserker |
-| Lucas | Gumpy | Gnome | Druid |
 | Cal | Fear Demonsorrow | Tiefling | Cleric |
-| Haley | Drusillia | wood Elf | Druid |
-| Anna |Charizma Shuggahtitts | Halfling | Bard |
-| Brad | Chandler Kittenstouch | Human | Fighter |
+| Haley | Drusillia | Wood Elf | Druid |
 | Megan | Raz | Half-Elf | Rogue |
 | Ben | Aelar | Wood Elf | Ranger |
-| Shalom | Cyrus the Cruel | ? | Rogue |
-| Joe | ? | ? | ? |
+| Bekki | Anies | ? | Warlock |
+| Nils | ? | ? | ? | Unknown |
+| Carol | ? | ? | ? | Unknown |
+| Shalom | Cyrus the Cruel | ? | Rogue | Vanished |
+| Lucas | Gumpy | Gnome | Druid | Deceased | 
+| Anna |Charizma Shuggahtitts | Halfling | Bard | Vanished |
+| Brad | Chandler Kittenstouch | Human | Fighter | Vanished |
+| Scott | Drake Goldmember | Dragonborn | Paladin | Vanished |
