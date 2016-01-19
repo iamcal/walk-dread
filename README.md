@@ -12,7 +12,7 @@
 | Bekki | Anais | High-Elf | Warlock |
 | Nils | ? | ? | ? | Unknown |
 | Carol | ? | ? | ? | Unknown |
-| Shalom | Cyrus the Cruel | ? | Rogue | Vanished |
+| Shalom | Cyrus the Cruel | Dark-Elf | Rogue | Vanished |
 | Lucas | Gumpy | Gnome | Druid | Deceased | 
 | Anna |Charizma Shuggahtitts | Halfling | Bard | Vanished |
 | Brad | Chandler Kittenstouch | Human | Fighter | Vanished |
