@@ -9,7 +9,7 @@
 | Haley | Drusillia | Wood Elf | Druid |
 | Megan | Raz | Half-Elf | Rogue |
 | Ben | Aelar | Wood Elf | Ranger |
-| Bekki | Anais | ? | Warlock |
+| Bekki | Anais | High-Elf | Warlock |
 | Nils | ? | ? | ? | Unknown |
 | Carol | ? | ? | ? | Unknown |
 | Shalom | Cyrus the Cruel | ? | Rogue | Vanished |
