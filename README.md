@@ -10,8 +10,8 @@
 | Megan | Raz | Half-Elf | Rogue |
 | Ben | Aelar | Wood Elf | Ranger |
 | Bekki | Anais | High-Elf | Warlock |
-| Carol | Azaghal | Dwarf | ? | Unknown |
-| Nils | ? | ? | ? | Unknown |
+| Carol | Azaghal | Dwarf | Fighter |
+| Nils | ? | ? | ? | ? |
 | Shalom | Cyrus the Cruel | Dark-Elf | Rogue | Vanished |
 | Lucas | Gumpy | Gnome | Druid | Deceased | 
 | Anna |Charizma Shuggahtitts | Halfling | Bard | Vanished |
