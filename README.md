@@ -7,7 +7,7 @@ What is even going on here? Also: evil
 | Element | Water | Earth | Fire | Air |
 | ------- | ----- | ----- | ---- | --- |
 |Location |Rivergard Keep |Sacred Stone Monastery |Scarlet Moon Hall |Feathergale Spire |
-|Leader |~Jolliver Grimjaw~ |Hellenrae |Dude with a pipe? |Thurl Merosska, Feathergale Knights |
+|Leader |~Jolliver Grimjaw~ |~Hellenrae~ |~Elizar~ |~Thurl Merosska~<br>Feathergale Knights |
 |Cult | Cult of the Crushing Wave |Cult of the Black Earth |Cult of the Eternal Flame |Cult of the Howling Hatred |
 |Prophet |Gar Shatterkeel |~Marlos Unrayl~ |~Vannifer~ |Aerisi Kalinoth |
 |Prince |Olhydra |Ogrémoch |Imix |Yan-C-Bin |
