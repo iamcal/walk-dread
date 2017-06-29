@@ -1,6 +1,8 @@
 # Walking Dread D&D Campaign
 
-Enemies list
+What is even going on here? Also: evil
+
+## Our Adversaries
 
 | Element | Water | Earth | Fire | Air |
 | ------- | ----- | ----- | ---- | --- |
@@ -11,7 +13,7 @@ Enemies list
 |Prince |Olhydra |Ogrémoch |Imix |Yan-C-Bin |
 
 
-## Characters
+## Our Characters
 
 | Player | Name | Race | Class | Fate |
 | ------ | ---- | ---- | ----- |------|
